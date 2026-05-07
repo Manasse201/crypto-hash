@@ -31,5 +31,3 @@ python hash.py
 
 Modifications
 - Le code source principal se trouve dans `hash.py`.
-
-Si vous voulez, j'ajoute un petit script de test ou une fonction pour hacher des fichiers en ligne de commande.
